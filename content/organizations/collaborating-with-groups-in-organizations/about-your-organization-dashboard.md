@@ -1,4 +1,4 @@
----
+-https://www.contributor-covenant.org/version/1/1/0/code-of-conduct.html-
 title: About your organization dashboard
 intro: 'As an organization member, you can visit your organization''s dashboard throughout the day to stay updated on recent activity and keep track of issues and pull requests you''re working on or following in the organization.'
 redirect_from:
